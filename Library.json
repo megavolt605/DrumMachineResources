@@ -1,0 +1,465 @@
+{
+  "name": "Standart sound library",
+  "instruments": [
+    {
+      "name": "24 Ride",
+      "kinds": [
+        {
+          "name": "1",
+          "shortName": "1",
+          "assetName": "24Ride-1"
+        },
+        {
+          "name": "2",
+          "shortName": "2",
+          "assetName": "24Ride-2"
+        },
+        {
+          "name": "3",
+          "shortName": "3",
+          "assetName": "24Ride-3"
+        },
+        {
+          "name": "4",
+          "shortName": "4",
+          "assetName": "24Ride-4"
+        },
+        {
+          "name": "5",
+          "shortName": "5",
+          "assetName": "24Ride-5"
+        }
+      ]
+    },
+    {
+      "name": "Cowbell",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Cowbell-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Cowbell-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Cowbell-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Cowbell-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Cowbell-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Crash",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Crash-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Crash-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Crash-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Crash-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Crash-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Hand Clap",
+      "kinds": [
+        {
+          "name": "Standart",
+          "shortName": "S",
+          "assetName": "HandClap"
+        }
+      ]
+    },
+    {
+      "name": "Hat Closed",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "HatClosed-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "HatClosed-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "HatClosed-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "HatClosed-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "HatClosed-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Hat Open",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "HatOpen-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "HatOpen-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "HatOpen-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "HatOpen-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "HatOpen-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Hat Pedal",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "HatPedal-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "HatPedal-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "HatPedal-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "HatPedal-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "HatPedal-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Kick",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Kick-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Kick-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Kick-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Kick-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Kick-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Ride",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Ride-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Ride-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Ride-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Ride-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Ride-Softest"
+        }
+      ]
+    },
+    {
+      "name": "SideStick",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "SideStick-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "SideStick-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "SideStick-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "SideStick-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "SideStick-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Snare",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Snare-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Snare-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Snare-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Snare-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Snare-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Snare Rimshot",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "SnareRimshot-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "SnareRimshot-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "SnareRimshot-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "SnareRimshot-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "SnareRimshot-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Splash",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Splash-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Splash-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Splash-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Splash-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Splash-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Tom1",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Tom1-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Tom1-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Tom1-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Tom1-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Tom1-Softest"
+        }
+      ]
+    },
+    {
+      "name": "Tom2",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "Tom2-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "Tom2-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "Tom2-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "Tom2-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "Tom2-Softest"
+        }
+      ]
+    },
+    {
+      "name": "TomFloor",
+      "kinds": [
+        {
+          "name": "Hardest",
+          "shortName": "HH",
+          "assetName": "TomFloor-Hardest"
+        },
+        {
+          "name": "Hard",
+          "shortName": "H",
+          "assetName": "TomFloor-Hard"
+        },
+        {
+          "name": "Medium",
+          "shortName": "M",
+          "assetName": "TomFloor-Med"
+        },
+        {
+          "name": "Soft",
+          "shortName": "S",
+          "assetName": "TomFloor-Soft"
+        },
+        {
+          "name": "Softest",
+          "shortName": "SS",
+          "assetName": "TomFloor-Softest"
+        }
+      ]
+    }
+  ]
+}
